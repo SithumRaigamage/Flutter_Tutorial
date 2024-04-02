@@ -1,4 +1,4 @@
-# project_1
+# Flutter Tutorial
 
 A new Flutter project.
 
